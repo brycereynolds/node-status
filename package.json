@@ -1,0 +1,19 @@
+{
+  "name": "node-status",
+  "version": "0.0.1",
+  "description": "A simple wrapper to add a '/status' endpoint to your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycereynolds/node-status.git"
+  },
+  "author": "Bryce Reynolds <brycereynoldsdesign@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/brycereynolds/node-status/issues"
+  },
+  "homepage": "https://github.com/brycereynolds/node-status#readme"
+}
